@@ -1,6 +1,6 @@
 services:
 web:
-image: votre_username/monapp:latest
+image: douaajatlaoui/monapp:latest
 ports:
-- "8080:80"
+- "8080:81"
 restart: unless-stopped
